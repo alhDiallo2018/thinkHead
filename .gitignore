@@ -1,0 +1,22 @@
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les dossiers de configuration des IDE
+.idea/
+.vscode/
+
+# Ignorer les fichiers de sortie de compilation
+bin/
+out/
+
+# Ignorer les fichiers de dépendances (si vous utilisez Maven ou Gradle)
+target/
+build/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers de configuration personnelle
+*.iml
+*.ipr
+*.iws
